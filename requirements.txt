@@ -1,3 +1,4 @@
 streamlit==1.22.0
 gtts==2.3.2
 requests==2.28.2
+imghdr-py==1.1.1  # Add this line
